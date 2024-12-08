@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>React Counter</h1>        
+        <h1>React Counter Application</h1>        
         <div className="counter">
           <button onClick={() => setCount(count + 1)}>Increment</button>
           <p>Current Count: {count}</p>
